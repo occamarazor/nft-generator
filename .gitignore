@@ -1,0 +1,19 @@
+# IDE
+.idea/
+
+# Environments
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+dist/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Generated images
+images/
