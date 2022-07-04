@@ -1,6 +1,9 @@
 # IDE
 .idea/
 
+# pyenv
+.python-version
+
 # Environments
 venv/
 
